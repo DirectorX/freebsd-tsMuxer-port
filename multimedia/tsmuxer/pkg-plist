@@ -1,0 +1,4 @@
+bin/tsMuxerGUI
+bin/tsmuxer
+share/applications/tsMuxerGUI.desktop
+share/icons/hicolor/128x128/apps/tsMuxerGUI.png
